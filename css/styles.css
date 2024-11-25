@@ -4,6 +4,10 @@
     background-color: #ffffff;
 }
 
+ul{
+    list-style: none;
+}
+
 .logo-studio{
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
